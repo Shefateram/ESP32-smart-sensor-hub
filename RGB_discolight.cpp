@@ -37,9 +37,40 @@ void loop() {
   showColor(255, 0, 255); // Magenta
   delay(1000);            // Wait for 1 second
 
+  showColor(255, 80, 0); // Orange
+  delay(1000);           // Wait for 1 second
+
+  showColor(128, 0, 128); // Purple
+  delay(1000);            // Wait for 1 second
+
+  showColor(255, 180, 0); // Amber
+  delay(1000);            // Wait for 1 second
+
+  showColor(0, 128, 128); // Teal
+  delay(1000);            // Wait for 1 second
+
+  showColor(180, 255, 0); // Chartreuse
+  delay(1000);            // Wait for 1 second
+
+  showColor(255, 105, 180); // Hot Pink
+  delay(1000);              // Wait for 1 second
+
+  showColor(0, 255, 80); // Spring Green
+  delay(1000);           // Wait for 1 second
+
+  showColor(50, 0, 255); // Indigo
+  delay(1000);           // Wait for 1 second
+
+  showColor(255, 100, 150); // Coral
+  delay(1000);              // Wait for 1 second
+
+  showColor(0, 180, 255); // Azure
+  delay(1000);            // Wait for 1 second
+
   showColor(255, 255, 255); // White
   delay(1000);              // Wait for 1 second
 
   showColor(0, 0, 0); // Off
   delay(1000);        // Wait for 1 second
+}
 }
